@@ -1,69 +1,57 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy</title>
-</head>
-<body>
-    <h1>Privacy Policy</h1>
+Privacy Policy
 
-    <p>**Introduction**</p>
+**Introduction**
 
-    <p>LevelUp provides tools and services to facilitate self-advancement and empowering users. We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and protect your data when you use our app.</p>
+LevelUp provides tools and services to facilitate self-advancement and empowering users. We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and protect your data when you use our app.
 
-    <h2>Data Collection</h2>
+    Data Collection
 
-    <p>We may collect the following types of information:</p>
+    We may collect the following types of information:
 
-    <ul>
-        <li>**Personal information:** Name, email address, contact information.</li>
-        <li>**Usage data:** Information about how you use the app, such as your activities and preferences.</li>
-        <li>**Device information:** Information about your device, such as your device type, operating system, and IP address.</li>
-    </ul>
 
-    <h2>Data Usage</h2>
+        **Personal information:** Name, email address, contact information.
+        **Usage data:** Information about how you use the app, such as your activities and preferences.
+        **Device information:** Information about your device, such as your device type, operating system, and IP address.
 
-    <p>We may use your data to:</p>
 
-    <ul>
-        <li>Provide and improve our app's services.</li>
-        <li>Personalize your user experience.</li>
-        <li>Analyze app usage and performance.</li>
-        <li>Communicate with you about our app or services.</li>
-    </ul>
+    Data Usage
 
-    <h2>Data Sharing</h2>
+    We may use your data to:
 
-    <p>We may share your data with:</p>
+        - Provide and improve our app's services.
+        - Personalize your user experience.
+        - Analyze app usage and performance.
+        - Communicate with you about our app or services.
 
-    <ul>
-        <li>Third-party service providers who help us operate our app.</li>
-        <li>Law enforcement or regulatory authorities as required by law.</li>
-    </ul>
 
-    <h2>Data Security</h2>
+    Data Sharing
 
-    <p>We implement reasonable security measures to protect your data from unauthorized access, disclosure, alteration, or destruction.</p>
+    We may share your data with:
 
-    <h2>User Rights</h2>
+        - Third-party service providers who help us operate our app.
+        - Law enforcement or regulatory authorities as required by law.
 
-    <p>You may have the following rights regarding your data:</p>
 
-    <ul>
-        <li>Access to your personal information.</li>
-        <li>Rectification of inaccurate data.</li>
-        <li>Erasure of your data.</li>
-        <li>Data portability.</li>
-        <li>Objection to data processing.</li>
-    </ul>
+    Data Security
 
-    <h2>Changes to This Privacy Policy</h2>
+    We implement reasonable security measures to protect your data from unauthorized access, disclosure, alteration, or destruction.
 
-    <p>We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the updated policy on our website or within the app.</p>
+    User Rights
 
-    <h2>Contact Information</h2>
+    You may have the following rights regarding your data:
 
-    <p>If you have any questions about this Privacy Policy or our data practices, please contact us at fac3t1ousme@gmail.com.</p>
-</body>
-</html>
+
+        Access to your personal information.
+        Rectification of inaccurate data.
+        Erasure of your data.
+        Data portability.
+        Objection to data processing.
+
+
+    Changes to This Privacy Policy
+
+    We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the updated policy on our website or within the app.
+
+    Contact Information
+
+    If you have any questions about this Privacy Policy or our data practices, please contact us at fac3t1ousme@gmail.com.
